@@ -1,0 +1,10 @@
+content:
+- Theory
+- Methods of LocalDateTime
+- Create LocalDateTime
+- Same date and time
+- Adding N minutes
+- Merging date-time instances
+- Whole hours between two date-time pairs
+- Add days and subtract hours
+- Subtracting hours and adding minutes
